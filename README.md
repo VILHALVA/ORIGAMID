@@ -1,7 +1,10 @@
 # ORIGAMID
-☑️O site consiste em uma página web contendo alguns exemplos de layout utilizando Grid e Flexbox.
+☑️O SITE CONSISTE EM UMA PÁGINA WEB CONTENDO ALGUNS EXEMPLOS DE LAYOUT UTILIZANDO GRID E FLEXBOX.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O aplicativo é uma página da web que demonstra o uso de CSS Grid e Flexbox para criar layouts responsivos. Ele apresenta diferentes seções, cada uma utilizando técnicas específicas de layout para organizar elementos na página. Isso inclui uma seção que utiliza Flexbox para criar uma disposição flexível de imagens e legendas, várias seções que utilizam CSS Grid para organizar imagens e legendas em grades definidas, e uma seção que combina Grid e Flexbox para criar um layout mais complexo com vídeo e barra lateral. 
