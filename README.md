@@ -19,4 +19,3 @@ O aplicativo é uma página da web que demonstra o uso de CSS Grid e Flexbox par
 - [PROJETO CRIADO PELO "brunocesaromax"](https://github.com/brunocesaromax/css-grid-layout-flexbox)
 - [VIDEO DO PROJETO](https://www.youtube.com/watch?v=x-4z_u8LcGc)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
